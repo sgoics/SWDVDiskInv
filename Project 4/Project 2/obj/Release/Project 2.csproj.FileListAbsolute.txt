@@ -1,0 +1,116 @@
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Project 2.dll.config
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Project 2.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Project 2.pdb
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\csc.exe
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\csc.exe.config
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\csc.rsp
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\csi.exe
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\csi.exe.config
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\csi.rsp
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.AppContext.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Console.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.IO.Compression.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.IO.FileSystem.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.IO.Pipes.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.AccessControl.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.Claims.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.ValueTuple.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Xml.XPath.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\vbc.exe
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\vbc.exe.config
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\vbc.rsp
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Murach\aspnet46_cs\Project_2\Project 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet46_cs\Project_2\Project 2\obj\Release\Project 2.csproj.CoreCompileInputs.cache
+C:\Murach\aspnet46_cs\Project_2\Project 2\obj\Release\Project 2.csproj.CopyComplete
+C:\Murach\aspnet46_cs\Project_2\Project 2\obj\Release\Project 2.dll
+C:\Murach\aspnet46_cs\Project_2\Project 2\obj\Release\Project 2.pdb
+C:\Murach\aspnet46_cs\Project_2\Project 2\obj\Release\Project 2.csprojAssemblyReference.cache
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Project 2.dll.config
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Project 2.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Project 2.pdb
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\csc.exe
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\csc.exe.config
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\csc.rsp
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\csi.exe
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\csi.exe.config
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\csi.rsp
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.AppContext.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Console.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.IO.Compression.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.IO.FileSystem.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.IO.Pipes.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.AccessControl.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.Claims.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.ValueTuple.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Xml.XPath.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\vbc.exe
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\vbc.exe.config
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\vbc.rsp
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Murach\aspnet46_cs\Project 4\Project 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet46_cs\Project 4\Project 2\obj\Release\Project 2.csprojAssemblyReference.cache
+C:\Murach\aspnet46_cs\Project 4\Project 2\obj\Release\Project 2.csproj.CoreCompileInputs.cache
+C:\Murach\aspnet46_cs\Project 4\Project 2\obj\Release\Project 2.csproj.CopyComplete
+C:\Murach\aspnet46_cs\Project 4\Project 2\obj\Release\Project 2.dll
+C:\Murach\aspnet46_cs\Project 4\Project 2\obj\Release\Project 2.pdb

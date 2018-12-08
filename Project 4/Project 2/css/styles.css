@@ -1,0 +1,50 @@
+.jumbotron{
+    margin-bottom: 0;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(14, 226, 156);
+}
+/* body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0 auto;
+    width: 500px;
+    border: 3px solid blue;
+    padding: 0 2em 1em;
+} */
+
+h1 {
+	color: rgb(19, 194, 218);
+}
+
+label {
+	/* float: left; */
+    width: 11em;
+    text-align: right;
+    padding-bottom: .5em;
+}
+input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+}
+#mpg {
+	background-color: #eee;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.logo{
+    display: inline!important;
+    height: 38px;
+    background:rgb(19, 194, 218);
+    border-radius: 50px;
+    margin-top: -9px;
+}
+
+.ui-state-active {
+    background: rgb(19, 194, 218);
+}
+
